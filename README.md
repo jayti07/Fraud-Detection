@@ -4,6 +4,9 @@ ML-based system to detect fraudulent credit card transactions using Random Fores
 
 ---
 
+## 🚀 Live Demo
+[Click here to view the app](https://fraud-detection-jgtnxwo6sdhagm7h7fmzvb.streamlit.app/)
+
 ## 📊 Results Summary
 
 ![Summary](summary.png)
